@@ -70,7 +70,7 @@ justify-content: space-between;
 margin: 10px;
 }
 .course-card{
-width: 300px;
+width: 250px;
 }
 .course-card img{
 width: 100%;
@@ -102,7 +102,7 @@ height: 50%;
     justify-content: space-between;
 }
 .course__card{
-    width: 300px;
+    width: 250px;
 }
 .course__card img{
     width: 100%;
